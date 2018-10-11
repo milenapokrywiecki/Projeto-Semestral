@@ -1,0 +1,132 @@
+
+.fundo{
+    background-image: url(img/fundo.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.align{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bathroom{
+    background-image: linear-gradient(#4682B4, #B0C4DE, #ADD8E6) ;
+}
+.container{
+    margin: 0; /*margem*/
+    font-size: 16px; /*tamanho da fonte*/
+    font-family: sans-serif; /*retira detalhe da fonte*/
+    box-sizing: border-box; /*ele contrai o item*/
+  }
+.cadastro{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.quadrado{
+    background-image: linear-gradient(#BFEFFF, #B2DFEE,#9AC0CD );
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: 80px;
+    width: 350px;
+    height: 490px;
+    align-items: center;
+    border-radius: 20px;
+}
+.ok{
+    margin-left: 135px;
+}
+.back{
+    margin-left: 150px;
+}
+.confirmar{
+    margin-top: 100px;
+   text-align: center;
+}
+.quadrado2{
+    background-image: linear-gradient(#BFEFFF, #B2DFEE,#9AC0CD );
+    margin-left: 5px;
+    margin-right: 45px;
+    width: 350px;
+    height: 690px;
+    align-items: center;
+    border-radius: 20px;
+}
+.quadrado3{
+    background-image: linear-gradient(#BFEFFF, #B2DFEE,#9AC0CD );
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: 80px;
+    width: 350px;
+    height: 580px;
+    align-items: center;
+    border-radius: 20px
+}
+.fieldset{
+    width: 89%;
+    margin-left: 4.5px;
+}
+.labell{
+    width: 60%;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px; /*arredonda*/
+    padding: 0 15px;
+    font-size: 1em;
+    box-sizing: border-box;
+    outline: none; /*tira a marcação*/
+    border: none; /*sem borda*/
+    background:  rgba(0.0, 0, 0, 0.1);
+}
+.titulo{
+    display: flex;
+    height: 6rem; /*altura*/
+    width: 100%; /*largura*/
+    color: black; /*cor da fonte*/
+    justify-content: center; /*centralização do texto*/
+    align-items: center; /*alinhamento dos itens*/
+}
+.cozinha{
+    background-image: linear-gradient( #CDBE70,#EEDC82, #FFEC8B);
+    margin: 0;
+	padding: 0;
+}
+.bebe{
+    width: 360px;
+    height: 415px;
+    margin: 0 3%;
+}
+.ut{
+    width: 82px;
+    height: 87px;
+    margin-top: 1.5rem;
+    padding: 2px;
+}
+.chuveiro{
+    width: 260px;
+    height: 155px;
+    float: left;
+    margin-top: 0.5em;
+}
+.bebeb{
+    width: 275px;
+    height: 315px;
+    margin: 0 10%;
+}
+.info{
+    float: right;
+    width: 30px;
+    height: 30px;
+}
+.gota{
+    float: left;
+    width: 40px;
+    height: 45px;
+    margin-top: 2.9em;
+    margin-left: 1em;
+}
+.mama{
+    float: left;
+    width: 35px;
+    height: 45px;
+    margin-top: 3.3em;
+    margin-left: 1em;
+}
